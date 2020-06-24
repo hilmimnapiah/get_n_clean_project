@@ -1,4 +1,4 @@
-# Coursera Getting and Cleaning Data Course Project 
+# Coursera Getting and Cleaning Data Course Project (v1)
 library(data.table)
 
 #this step is to download the data specified in the project.
